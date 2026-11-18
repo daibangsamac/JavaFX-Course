@@ -40,5 +40,7 @@ public class HelloApplication extends Application {
         // Open the application's window
         // NOTE: Should be keep at the very last line
         stage.show();
+
+        // stage = Window, Scene = Jframe, Root - branch - leaf
     }
 }
